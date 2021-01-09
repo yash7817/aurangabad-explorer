@@ -1,0 +1,15 @@
+.blue-button:hover {
+	color: white;
+    background-color: green;
+	font-family: white;
+	font-size: 15px;
+	font-size-adjust: 10px;
+	border-radius: 9px;
+	padding: 12px 10px;
+	text-decoration: none;
+}
+body{
+			background-image:url(ambassador.jpg);
+			background-size: cover;
+			background-attachment: fixed;
+		}
